@@ -1,24 +1,9 @@
-# README
+# 買い物検索アプリ（2020年4月作成）
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 概要
+Techpitの教材を見ながら作成しました。
+楽天のAPIが搭載されており、気になる商品名を入力したら楽天のランキング１〜３位の商品の情報を知ることが出来るアプリです。
+LINEと連携しており公式ラインを追加し商品名の入力するだけで自動的に商品情報を送ります。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# QRコード
+https://gyazo.com/d458be50fda047e8b2b5dbc87333be85
