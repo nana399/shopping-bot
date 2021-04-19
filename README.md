@@ -8,4 +8,5 @@ Techpitの教材を見ながら作成しました。
 公式ラインを追加し気になる商品名を入力するだけで自動的に楽天市場にのっている３位までの商品情報を返します。
 
 # QRコード
-https://gyazo.com/d458be50fda047e8b2b5dbc87333be85
+![QRコード](https://user-images.githubusercontent.com/78674687/115211590-a9919e80-a13a-11eb-8d5f-13df19859309.png)
+
